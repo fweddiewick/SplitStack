@@ -1,0 +1,6 @@
+{
+  "name": "SplitStack SG - Household & Card Engine",
+  "description": "Zero-scroll mobile-first household expense tracker, bill-splitting, and Singapore credit card rewards optimization engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
